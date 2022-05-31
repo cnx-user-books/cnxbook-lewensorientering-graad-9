@@ -1,0 +1,485 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Belangstelling</title>
+  <metadata>
+  <md:content-id>m29134</md:content-id><md:title>Belangstelling</md:title>
+  <md:abstract/>
+  <md:uuid>3b14bf4b-7b97-465f-b839-02c54707a073</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1172557411277">
+      <title>LEWENSORIËNTERING</title>
+      <para id="para-id1172557411277">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8770606">
+      <title>Graad 9</title>
+      <para id="para-id8770606">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172554540625">
+      <title>MY LOOPBAAN VORENTOE</title>
+      <para id="para-id1172554540625">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172556591767">
+      <title>Module 9</title>
+      <para id="para-id1172556591767">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8225185">
+      <title>BELANGSTELLING</title>
+      <para id="id1172560941956">Jou belangstelling is die dinge waarvan jy hou en wat jy geniet om te doen. ‘n Mens se skoolvakke behoort te bestaan uit die vakke waarin jy geïnteresseerd is.</para>
+      <list id="id2160843" list-type="bulleted">
+        <item>Vul die vrae in die <emphasis effect="bold">belangstellingsvraelys</emphasis> in deur gebruik te maak van die volgende skaal:</item>
+      </list>
+      <para id="id1172565369838">Ek het <emphasis effect="italics">geen</emphasis> belangstelling daarin nie  <emphasis effect="bold">1</emphasis></para>
+      <para id="id4206996">Ek het ‘n <emphasis effect="italics">effense</emphasis> belangstelling daarin <emphasis effect="bold">2</emphasis></para>
+      <para id="id7984933">Ek het ‘n <emphasis effect="italics">redelike</emphasis> belangstelling daarin  <emphasis effect="bold">3</emphasis></para>
+      <para id="id1172556768718">Ek het ‘n <emphasis effect="italics">baie</emphasis><emphasis effect="bold"> sterk</emphasis> belangstelling daarin <emphasis effect="bold">4</emphasis></para>
+      <table id="id8002434" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>BELANGSTELLING</entry>
+              <entry>4</entry>
+              <entry>3</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>Tale:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om ‘n vreemde taal te praat </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om ‘n goeie kortverhaal te kan skryf</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om ‘n vreemde taal te kan lees</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Wiskunde:</entry>
+              <entry>4</entry>
+              <entry>3</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>om akkurate bewerkings met syfers te doen</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om syferprobleme op te los </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om iets met behulp van syfers te bewys</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Skeinat:</entry>
+              <entry>4</entry>
+              <entry>3</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>om chemiese eksperimente te doen</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om uit te vind hoe elektrisiteit werk </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om eksperimente met magnete te doen</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Biologie:</entry>
+              <entry>4</entry>
+              <entry>3</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>om ‘n plant onder ‘n mikroskoop te bestudeer</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om ‘n padda te dissekteer</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om die name van al die spiere in die liggaam te leer </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Geskiedenis:</entry>
+              <entry>4</entry>
+              <entry>3</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>om van Napoleon te leer</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om die terrein van ‘n bekende veldslag te besoek </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om meer te wete oor ons volkshelde te kom</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Aardrykskunde:</entry>
+              <entry>4</entry>
+              <entry>3</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>om weervoorspellings beter te verstaan</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om meer te wete oor vreemde lande se landbou te kom</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om meer te lees oor die hemelruim</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Bybelkunde:</entry>
+              <entry>4</entry>
+              <entry>3</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>om uit te vind hoe die Bybel geskryf is</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om oor die geskiedenis van Jerusalem te lees</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om meer oor die ou profete te wete te kom</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Handel:</entry>
+              <entry>4</entry>
+              <entry>3</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>om te weet wat inflasie is</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om rekeningkundige bewerkings te doen</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om uit te vind hoe ‘n mens ‘n wins kan maak</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id7174262" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Sekretarieel:</entry>
+              <entry>4</entry>
+              <entry>3</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>om sekretariële werk te doen</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om akkurate en vinnige tikwerk te doen</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om ‘n tikmasjien of rekenaar te versorg</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Landbou:</entry>
+              <entry>4</entry>
+              <entry>3</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>om te leer hoe om diere in te spuit</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om ‘n land reg te ploeg</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om bome te snoei</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Huisvlyt:</entry>
+              <entry>4</entry>
+              <entry>3</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>om meer oor klere-ontwerp te wete te kom</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om heerlike disse voor te berei</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om huise te versier</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Musiek, Kuns, Drama:</entry>
+              <entry>4</entry>
+              <entry>3</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>om hard te oefen om ‘n musiekinstrument goed te bespeel</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om ‘n oorspronklike skildery of beeldhouwerk te maak</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om te dans</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Tegnies:</entry>
+              <entry>4</entry>
+              <entry>3</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>om houtwerk te doen</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om aan enjins en masjinerie te peuter</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>om tegniese tekeninge te maak</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id6856715">
+      <title>Assessering</title>
+      <table id="id1172556404909" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 5 </entry>
+            </row>
+            <row>
+              <entry>Oriëntering Ten Opsigte Van Die Wêreld Van WerkDie leerder sal in staat wees om ingeligte keuses oor verdere studie- en loopbaankeuses te maak.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>5.1 die voorsieners van fondse vir studie en beroepe navors;</entry>
+            </row>
+            <row>
+              <entry>5.2 eie beroeps- en studiekeuses motiveer;</entry>
+            </row>
+            <row>
+              <entry>5.3 krities reflekteer en verslag lewer oor geleenthede in die werkplek;</entry>
+            </row>
+            <row>
+              <entry>5.4 regte en verantwoordelikhede in die werkplek bespreek;</entry>
+            </row>
+            <row>
+              <entry>5.5 ‘n plan vir eie lewenslange leer saamstel.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>
